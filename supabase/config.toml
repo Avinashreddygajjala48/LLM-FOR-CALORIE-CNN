@@ -1,0 +1,7 @@
+project_id = "fecndibnzslxoerppxih"
+
+[functions."nutrition-assistant"]
+verify_jwt = false
+
+[functions."food-recognition"]
+verify_jwt = false
